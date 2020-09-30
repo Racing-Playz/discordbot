@@ -89,4 +89,5 @@ hours = 12;
         });
       });
     });
+  });
 bot.login('NzYwNDY4MzkzNzQ4MzMyNTc2.X3MfYQ.xpAAKiS3EhfYjyrljXWsXsT_zQY');
