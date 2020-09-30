@@ -1,6 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
- 
+
+client.login('NzYwNDY4MzkzNzQ4MzMyNTc2.X3MfYQ.xpAAKiS3EhfYjyrljXWsXsT_zQY');
 client.on('message',async message => {
     const moment = require('moment'); //npm i moment
 const ms = require('ms') //npm i ms
@@ -88,5 +89,3 @@ hours = 12;
         });
       });
     });
- 
-client.login('NzYwNDY4MzkzNzQ4MzMyNTc2.X3MfYQ.xpAAKiS3EhfYjyrljXWsXsT_zQY');
